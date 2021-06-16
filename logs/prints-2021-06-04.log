@@ -1,0 +1,6 @@
+14:22:28.172 [TestNG-tests-1] INFO  Academy.E2EProject3.HomePage - Opened the URL
+14:22:29.889 [TestNG-tests-2] INFO  Academy.E2EProject3.ValidatePage - Navigation bar is displayed successfully
+14:22:34.993 [TestNG-tests-1] INFO  Academy.E2EProject3.HomePage - restricted-user
+14:22:35.354 [TestNG-tests-1] INFO  Academy.E2EProject3.HomePage - clicked login
+14:22:38.647 [TestNG-tests-1] INFO  Academy.E2EProject3.HomePage - Opened the URL
+14:22:39.419 [TestNG-tests-1] INFO  Academy.E2EProject3.HomePage - non-restricted-user

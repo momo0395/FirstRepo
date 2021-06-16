@@ -1,0 +1,7 @@
+19:19:13.231 [main] INFO  Academy.E2EProject3.ValidatePage - Center text matches
+23:57:30.078 [main] INFO  Academy.E2EProject3.HomePage - Opened the URL
+23:57:32.295 [main] INFO  Academy.E2EProject3.HomePage - restricted-user
+23:57:32.609 [main] INFO  Academy.E2EProject3.HomePage - clicked login
+23:57:40.382 [main] INFO  Academy.E2EProject3.HomePage - Opened the URL
+23:57:41.457 [main] INFO  Academy.E2EProject3.HomePage - non-restricted-user
+23:57:41.680 [main] INFO  Academy.E2EProject3.HomePage - clicked login

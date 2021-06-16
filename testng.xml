@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name="Academy.E2EProject3.Listeners"/>
+</listeners>
+  <test name="Test1">
+    <classes>
+      <class name="Academy.E2EProject3.HomePage"/>
+    
+      </classes>
+      </test>
+<test name="Test2">
+      <classes>
+      <class name="Academy.E2EProject3.ValidatePage"/>
+    </classes>
+  </test> 
+</suite> <!-- Suite -->

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 26.045 s <<< FAILURE! - in TestSuite
+Academy.E2EProject3.ValidatePage.centerTextCheck  Time elapsed: 0.347 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED COURSES9] but found [FEATURED COURSES]
+	at Academy.E2EProject3.ValidatePage.centerTextCheck(ValidatePage.java:34)
+

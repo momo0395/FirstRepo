@@ -1,0 +1,7 @@
+16:58:43.949 [main] INFO  Academy.E2EProject3.HomePage - restricted-user
+16:58:44.357 [main] INFO  Academy.E2EProject3.HomePage - clicked login
+16:58:48.751 [main] INFO  Academy.E2EProject3.HomePage - Opened the URL
+16:58:50.390 [main] INFO  Academy.E2EProject3.HomePage - non-restricted-user
+16:58:50.758 [main] INFO  Academy.E2EProject3.HomePage - clicked login
+16:58:50.998 [main] INFO  Academy.E2EProject3.ValidatePage - Navigation bar is displayed successfully
+17:04:23.480 [main] INFO  Academy.E2EProject3.HomePage - Opened the URL
